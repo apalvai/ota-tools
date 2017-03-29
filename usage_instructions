@@ -1,0 +1,2 @@
+# Example (used to re-sign MyApp)
+./ipa_sign ~/Downloads/MyApp.ipa ~/Library/MobileDevice/Provisioning\ Profiles/<provisioning_profile>.mobileprovision "iPhone Distribution: MyCompany, Inc. (<TEAM_ID>)”
